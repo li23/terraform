@@ -1,3 +1,7 @@
 .DS_Store
 Scratch/.terraform/plugins/darwin_amd64/lock.json
 Scratch/.terraform/plugins/darwin_amd64/terraform-provider-aws_v1.45.0_x4
+Scratch2/.terraform/plugins/windows_amd64/lock.json
+Scratch2/terraform.tfstate
+Scratch2/terraform.tfstate.backup
+Scratch2/.terraform/plugins/windows_amd64/terraform-provider-aws_v2.34.0_x4.exe
